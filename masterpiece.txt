@@ -1,0 +1,3 @@
+I am at the Software Carpentry Workshop. 
+February 5. 
+Python!
